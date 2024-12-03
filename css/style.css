@@ -24,7 +24,7 @@ body {
     padding: 1rem;
     flex-wrap: wrap;
     width: 100%;
-    z-index: 0;
+    z-index: 2;
 }
 .obrazek {
     max-width: 55px;
@@ -40,6 +40,7 @@ body {
 .topnav {
     background-color: black;
     overflow: hidden;
+    z-index: 2;
 }
 
 /* Style the links inside the navigation bar */
