@@ -197,7 +197,7 @@ body {
 /* o nas */
 #what .items {
     display: flex;
-    padding: 1rem;
+
     justify-content: space-between;
     z-index: -1;
 }

@@ -83,7 +83,7 @@ p {
 /* Section Co děláme  */
 #what .items {
     display: flex;
-    padding: 1rem;
+
     z-index: 3;
 }
 
